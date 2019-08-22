@@ -6,6 +6,7 @@ namespace MyHelper4Web
 {
     /// <summary>
     /// 配置文件操作类 
+    /// 修改了文件内容没有呢？
     /// </summary>
     public class MyAppConfigHelper
     {
