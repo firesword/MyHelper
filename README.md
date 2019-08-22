@@ -20,7 +20,7 @@ C# Common class helper 4 web
 * 15.字符串类型的辅助类 MyStringHelper.cs
 * 16.各种输入格式验证辅助类 MyValidateHelper
 * 17.XML操作类辅助类 MyXmlHelper
-
+阿斯弗说法萨芬
 Initial Version by Yang, Dennis on 23-Jan-2013
 [cnBlog][1]
 

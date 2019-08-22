@@ -4,6 +4,7 @@ namespace MyHelper4Web
 {
     /// <summary>
     /// 文件夹有关的操作类
+    /// 我只是测试一下修改内容吧
     /// </summary>
     public class MyDirHelper
     {
